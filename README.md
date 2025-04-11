@@ -1,2 +1,2 @@
 # Demo
-This is a Demo for WebDev
+This is a Demo for WebDev.
